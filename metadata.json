@@ -1,0 +1,6 @@
+{
+  "name": "dead.croco",
+  "description": "BE DEAD LIKE CROCO — Modern workforce management for fair work, transparent pay, employee empowerment, and workplace safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
